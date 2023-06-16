@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">capstoneProject</string>
+    <string name="berathint">Masukkan Berat Badan (kg)</string>
+    <string name="beratideal">Berat Badan Ideal (kg)</string>
+
+    <string name="tinggihint">Masukkan Tinggi Badan (cm)</string>
+    <string name="lanjut">next</string>
+    <string name="titleforcheck">Hello, before we start let’s check your body</string>
+    <string name="questionsolahraga">Seberapa sering anda melakukan olahraga</string>
+    <string name="sasaranturun">penurunan berat per minggu</string>
+    <string name="sering">sering</string>
+    <string name="jarang">jarang</string>
+    <string name="tidakpernah">tidak pernah</string>
+    <string name="berat0.25">0.25 per minggu</string>
+    <string name="berat0.5">0.5 per minggu</string>
+    <string name="berat1">1 per minggu</string>
+    <string name="usia">usia</string>
+    <string name="male">pria</string>
+    <string name="female">wanita</string>
+    <string name="jeniskelamin">jenis kelamin</string>
+    <string name="finish">finish</string>
+    <string name="update">Update</string>
+    <string name="setting">Setting</string>
+    <string name="home">Home</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="objective">Objective</string>
+    <string name="logout">Log out</string>
+    <string name="go">Go</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="body">Hitung BMI anda</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="bmi">BMI CALCULATOR</string>
+    <string name="calculate">Calculate</string>
+    <string name="password">Password</string>
+    <string name="create">Create Account</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="set">sesuaikan dengan registrasi</string>
+    <string name="check">Check your activity form? Click here</string>
+</resources>

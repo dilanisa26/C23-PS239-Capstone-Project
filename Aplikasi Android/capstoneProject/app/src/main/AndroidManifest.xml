@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.reydinata.capstoneproject" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|screenSize"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CapstoneProject"
+        tools:targetApi="31" >
+        <activity
+            android:name=".ui.MotionDeathLiftActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.MotionSquatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ExerciseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.tinggidanberatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ChatbotActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ObjectiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.EditProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SettingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.RegistrasiSasaranActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.AktivitasOlahragaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
