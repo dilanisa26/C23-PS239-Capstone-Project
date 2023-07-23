@@ -2,7 +2,7 @@
 
 ## Overview
 
-VitalityAI is a mobile application developed in collaboration with Bangkit Academy, led by Google, GoTo, and Traveloka. The app offers a unique combination of Machine Learning-powered features, including an NLP chatbot for fitness and health consultation using LSTM deep learning and a computer vision task to assess the form of squat and deadlift exercises using a Random Forest model. Although the project is still under development, our team has made significant progress in collecting the dataset, building the models, deploying them, creating a user-friendly UI/UX for the mobile app, and integrating the models seamlessly.
+VitalityAI is a mobile application developed by us for our capstone project in Bangkit Academy, led by Google, GoTo, and Traveloka. The app offers a unique combination of Machine Learning-powered features, including an NLP chatbot for fitness and health consultation using LSTM deep learning and a computer vision task to assess the form of squat and deadlift exercises using a Random Forest model. Although the project still needs further improvement, our team has made significant progress in collecting the dataset, building the models, deploying them, creating a user-friendly UI/UX for the mobile app, and integrating the models seamlessly.
 
 ## Features
 
